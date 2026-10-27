@@ -15,7 +15,7 @@ from modules.agent import LocalDataAgent, offline_summary
 
 st.set_page_config(page_title="Proyecto Final IA + Datos", page_icon="🤖", layout="wide")
 
-st.title("Demo · Explorador de datos con agente local")
+st.title("Proyecto Final IA + Datos")
 st.caption("Streamlit + Scikit-learn + Ollama · Proyecto Final Integrador")
 
 with st.sidebar:
